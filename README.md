@@ -1,6 +1,6 @@
 # 🚀 Niagnouma Corporation
 
-**Startup R&D — Software Development, Search Engines & Systems Engineering**
+## Startup R&D — Software Development, Search Engines & Systems Engineering
 
 ---
 
@@ -17,19 +17,22 @@ While our current core business is designing custom software solutions, our DNA 
 We turn technical challenges into concrete solutions.
 
 ### 💻 Software Development
-*   **Web & API:** Designing reactive and scalable applications (Frontend/Backend).
-*   **Mobile:** Native and cross-platform solutions.
-*   **Business Software:** Custom tools tailored to specific needs.
+
+* **Web & API:** Designing reactive and scalable applications (Frontend/Backend).
+* **Mobile:** Native and cross-platform solutions.
+* **Business Software:** Custom tools tailored to specific needs.
 
 ### 🔍 Search Engineering
-*   Implementation of indexing and ranking algorithms.
-*   Optimization for low latency and high availability.
-*   AI integration for semantic search.
+
+* Implementation of indexing and ranking algorithms.
+* Optimization for low latency and high availability.
+* AI integration for semantic search.
 
 ### ⚙️ System R&D (Long Term Vision)
-*   Fundamental research on OS architectures.
-*   Low-level memory management, scheduling, and security.
-*   Exploration of micro-kernel models.
+
+* Fundamental research on OS architectures.
+* Low-level memory management, scheduling, and security.
+* Exploration of micro-kernel models.
 
 ---
 
@@ -37,20 +40,21 @@ We turn technical challenges into concrete solutions.
 
 We choose the right tool for the job, with a strong preference for performance and safety.
 
-*   **Languages:** 🦀 Rust, 🐹 Go, 🐍 Python, TypeScript, C/C++.
-*   **Web:** ⚛️ React, Vue, Angular.
-*   **Mobile:** 📱 Flutter, React Native, Kotlin.
-*   **Data & Search:** 🐘 PostgreSQL, Elasticsearch, Redis.
-*   **Infra & DevOps:** 🐳 Docker, Kubernetes, CI/CD, Cloud (AWS/GCP).
+* **Languages:** 🦀 Rust, 🐹 Go, 🐍 Python, TypeScript, C/C++.
+* **Web:** ⚛️ React, Vue, Angular.
+* **Mobile:** 📱 Flutter, React Native, Kotlin.
+* **Data & Search:** 🐘 PostgreSQL, Elasticsearch, Redis.
+* **Infra & DevOps:** 🐳 Docker, Kubernetes, CI/CD, Cloud (AWS/GCP).
 
 ---
 
 ## 🚀 Our Approach
 
 We are in an active building phase. Our approach is pragmatic:
-1.  **Understand:** We analyze the real need.
-2.  **Code:** We build iterative and clean solutions.
-3.  **Deliver:** We deploy tested and reliable software.
+
+1. **Understand:** We analyze the real need.
+2. **Code:** We build iterative and clean solutions.
+3. **Deliver:** We deploy tested and reliable software.
 
 We believe in open source and do not hesitate to share some of our modules when they reach maturity.
 
