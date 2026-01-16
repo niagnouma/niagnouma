@@ -45,7 +45,6 @@ Hi! I am a software engineer dedicated to building high-performance systems and 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagnouma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagnouma&layout=compact&theme=tokyonight" />
@@ -58,7 +57,7 @@ Hi! I am a software engineer dedicated to building high-performance systems and 
 I'm always open to discussing system architecture, open-source collaborations, or complex technical challenges.
 
 📫 **Email:** [niagnouma001@gmail.com](mailto:niagnouma001@gmail.com)  
-🐙 **GitHub:** [github.com/niagnouma-corporation](https://github.com/niagnouma-corporation)  
+🐙 **GitHub:** [github.com/niagnouma-corporation](https://github.com/niagnouma)  
 
 ---
 *© 2026 Niagnouma Lab — Build, Learn, Innovate.*
