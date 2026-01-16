@@ -45,7 +45,7 @@ Hi! I am a software engineer dedicated to building high-performance systems and 
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niagnouma=tokyonight)](https://git.io/streak-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=niagnouma=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🤝 Connect with me
