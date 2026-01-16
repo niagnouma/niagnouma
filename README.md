@@ -45,11 +45,7 @@ Hi! I am a software engineer dedicated to building high-performance systems and 
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagnouma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagnouma&layout=compact&theme=tokyonight" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niagnouma=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 🤝 Connect with me
