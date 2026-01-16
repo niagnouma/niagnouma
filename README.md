@@ -47,8 +47,8 @@ Hi! I am a software engineer dedicated to building high-performance systems and 
 ## 📈 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagnouma-corporation&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagnouma-corporation&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagnouma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagnouma&layout=compact&theme=tokyonight" />
 </p>
 
 ---
